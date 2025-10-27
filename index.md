@@ -1,14 +1,6 @@
 ---
-
-layout: default
-
+layout: home
 title: Home
-
 ---
 
-
-
-Welcome to my GitHub Pages homepage!
-
-
-
+<p>Welcome to my GitHub Pages homepage!</p>
