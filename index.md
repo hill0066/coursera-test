@@ -1,10 +1,4 @@
 ---
 layout: home
-title: Home
+title: Welcome
 ---
-
-Welcome to my GitHub Pages homepage!
-
-
-
-
